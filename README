@@ -1,0 +1,21 @@
+Welcome to Vaasa Guestbook using Java, Java EE and Android.
+
+*********************************************************************************************************************
+Introduction
+
+The Vaasa Guestbook is a digital guestbook filled with personal greetings from visitors to Vaasa. the Guestbook includes a 
+camera function that enable personalized greetings. Vaasa Guestbook utilises the Web and mobile space.
+
+This android client is compatible with Android 2.2.x to 2.3.x OS 
+
+Install the apk file on your Android smartphone device
+Install the war file on Tomcat
+
+My current effort is to create different applications to be submitted to the Android Marketplace.
+
+Getting Help
+**********************************************************************************************************************
+If you have a question or need help with application, you can get help from the following sources:
+
+* eMail: opensourcein@gmail.com
+
